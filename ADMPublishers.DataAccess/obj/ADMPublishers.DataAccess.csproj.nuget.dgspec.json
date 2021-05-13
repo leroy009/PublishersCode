@@ -1,0 +1,195 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\King\\source\\repos\\ADMPublishers\\ADMPublishers.DataAccess\\ADMPublishers.DataAccess.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\King\\source\\repos\\ADMPublishers\\ADMPublishers.DataAccess\\ADMPublishers.DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\King\\source\\repos\\ADMPublishers\\ADMPublishers.DataAccess\\ADMPublishers.DataAccess.csproj",
+        "projectName": "ADMPublishers.DataAccess",
+        "projectPath": "C:\\Users\\King\\source\\repos\\ADMPublishers\\ADMPublishers.DataAccess\\ADMPublishers.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\King\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\King\\source\\repos\\ADMPublishers\\ADMPublishers.DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\King\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\King\\source\\repos\\ADMPublishers\\ADMPublishers.Models\\ADMPublishers.Models.csproj": {
+                "projectPath": "C:\\Users\\King\\source\\repos\\ADMPublishers\\ADMPublishers.Models\\ADMPublishers.Models.csproj"
+              },
+              "C:\\Users\\King\\source\\repos\\ADMPublishers\\ADMPublishers.Utility\\ADMPublishers.Utility.csproj": {
+                "projectPath": "C:\\Users\\King\\source\\repos\\ADMPublishers\\ADMPublishers.Utility\\ADMPublishers.Utility.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.90, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[5.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\King\\source\\repos\\ADMPublishers\\ADMPublishers.Models\\ADMPublishers.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\King\\source\\repos\\ADMPublishers\\ADMPublishers.Models\\ADMPublishers.Models.csproj",
+        "projectName": "ADMPublishers.Models",
+        "projectPath": "C:\\Users\\King\\source\\repos\\ADMPublishers\\ADMPublishers.Models\\ADMPublishers.Models.csproj",
+        "packagesPath": "C:\\Users\\King\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\King\\source\\repos\\ADMPublishers\\ADMPublishers.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\King\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\King\\source\\repos\\ADMPublishers\\ADMPublishers.Utility\\ADMPublishers.Utility.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\King\\source\\repos\\ADMPublishers\\ADMPublishers.Utility\\ADMPublishers.Utility.csproj",
+        "projectName": "ADMPublishers.Utility",
+        "projectPath": "C:\\Users\\King\\source\\repos\\ADMPublishers\\ADMPublishers.Utility\\ADMPublishers.Utility.csproj",
+        "packagesPath": "C:\\Users\\King\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\King\\source\\repos\\ADMPublishers\\ADMPublishers.Utility\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\King\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
